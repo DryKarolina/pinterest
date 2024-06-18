@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    max-width: 1080px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+header{
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+}
+
+.logo,.sociais{
+    width: 25%;
+}
+
+.logo img{
+    width: 80px;
+}
+
+.sociais img{
+    width: 80px;
+}
+
+
+.menu{
+    width: 50%;
+}
+
+.menu nav a{
+    color: #000000;
+    text-decoration: none;
+    padding-right: 50px;
+    font-size: 18px;
+}
+
+.sociais button{
+    width: 80px;
+    height: 80px;
+    border: none;
+    margin-right: 10px;
+}
+
+.sociais button i{
+    font-size: 20px;
+  
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.containerimg
+{
+    width: 1400px;
+    margin: 20px auto;
+    column-span: 4;
+    column-gap: 40px;
+
+}
+
+.container  .box
+{
+    width: 100%;
+}
